@@ -6,5 +6,7 @@ Olá, eu sou Lucca, entrei neste curso com o objetivo de ter a experiência prof
   - Tenho 6 gatos, 1 cachorro e um jabuti
   - Amo música e artes em geral (pintura, cinema, etc)
 
-# Computador
-  - Programo em um notebook Lenovo de 5 anos. 
+## Computador
+  - Programo em um notebook Lenovo de 5 anos.
+
+## Feature 1
