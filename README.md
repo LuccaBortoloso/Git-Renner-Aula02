@@ -10,3 +10,5 @@ Olá, eu sou Lucca, entrei neste curso com o objetivo de ter a experiência prof
   - Programo em um notebook Lenovo de 5 anos.
 
 ## Feature 1
+
+## Fixes #2
