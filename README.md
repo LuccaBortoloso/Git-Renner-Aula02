@@ -12,3 +12,5 @@ Olá, eu sou Lucca, entrei neste curso com o objetivo de ter a experiência prof
 ## Feature 1
 
 ## Fixes #2
+
+## Feature 2
